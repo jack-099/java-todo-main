@@ -6,7 +6,7 @@ public class hajime {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("はじめまして");
 		System.out.println("1");
-		System.out.println();
+		System.out.println("2");
 		System.out.println();
 
 	}
